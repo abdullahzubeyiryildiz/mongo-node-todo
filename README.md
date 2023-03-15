@@ -14,10 +14,16 @@ Projeyi klonladıktan veya indirdikten sonra, aşağıdaki adımları izleyerek 
 DB_CONNECTION=mongodb://127.0.0.1:27017/tododb
 
 3. Uygulamayı başlatın:
-<b>npm run dev</b>
+<b>npm run dev</b> 
 
-Uygulama başarıyla başlatıldığında, tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine giderek uygulamayı kullanabilirsiniz.
+Uygulama başarıyla başlatıldığında, tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine giderek veya postman üzerinden uygulamayı kullanabilirsiniz.
 
+Postman
+Get /api/todos 
+Post /api/todos
+PUT /api/todos/id_no
+DELETE /api/todos/id_no
+Get /api/todos/id_no
 ## Lisans
 
 MIT
