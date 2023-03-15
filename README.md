@@ -18,7 +18,7 @@ DB_CONNECTION=mongodb://127.0.0.1:27017/tododb
 
 Uygulama başarıyla başlatıldığında, tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine giderek veya postman üzerinden uygulamayı kullanabilirsiniz.
 
-Postman
+## Postman
 Get /api/todos <br>
 Post /api/todos  <br>
 PUT /api/todos/id_no  <br>
