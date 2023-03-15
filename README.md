@@ -14,7 +14,7 @@ Projeyi klonladıktan veya indirdikten sonra, aşağıdaki adımları izleyerek 
 DB_CONNECTION=mongodb://127.0.0.1:27017/tododb
 
 3. Uygulamayı başlatın:
-npm run dev
+<b>npm run dev</b>
 
 Uygulama başarıyla başlatıldığında, tarayıcınızda [http://localhost:3000](http://localhost:3000) adresine giderek uygulamayı kullanabilirsiniz.
 
