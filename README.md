@@ -7,7 +7,7 @@ Todo App, Express.js, Mongoose ve MongoDB kullanarak oluşturulan basit bir Todo
 Projeyi klonladıktan veya indirdikten sonra, aşağıdaki adımları izleyerek projeyi çalıştırabilirsiniz:
 
 1. Bağımlılıkları yükleyin: 
-npm install dotenv express mongoose
+<b>npm install dotenv express mongoose<b>
 
 2. Kök dizinde `.env` adlı bir dosya oluşturun ve gerekli yapılandırma bilgilerini ekleyin. Örnek:
 
